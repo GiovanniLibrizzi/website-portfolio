@@ -1123,3 +1123,46 @@ pre {
     display: inline-block;
   }
 }
+
+
+
+.frameCenter iframe {
+    margin:auto;
+    display:block;
+}
+
+.box {
+    float:left;
+    margin-right:20px;
+}
+.box-r {
+    float:right;
+    margin-right:20px;
+}
+.clear{
+    clear:both;
+}
+
+.sectionTitle {
+	text-align: center;
+	color:rgb(70, 70, 70);
+	font-weight: normal;
+}
+
+.line {
+    
+    width: 100%;
+	
+    
+}
+
+
+.centerImg {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+  }
+
+  .tiny {
+	font-size: 12px
+  }
