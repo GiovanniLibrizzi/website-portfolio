@@ -1,7 +1,7 @@
 ---
 layout: resume
 title: Resume
-subtitle: A lot of my experience!
+subtitle: Email me for my resume please!
 ---
 
 

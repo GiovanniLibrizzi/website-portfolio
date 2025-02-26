@@ -21,8 +21,9 @@ author: Giovanni Librizzi
 
 navbar-links:
 #  About Me: "aboutme"
-  Portfolio: "portfolio-audio"
-  Resume: "resume"
+  Audio Portfolio: "portfolio-audio"
+  #Resume: "resume"
+  
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
