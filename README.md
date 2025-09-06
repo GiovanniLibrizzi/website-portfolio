@@ -1,6 +1,5 @@
 # My Personal Website / Portfolio
 
-[![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
+> beautiful jekyll template forked from https://github.com/daattali/beautiful-jekyll
 
-> beautiful jekyll template forked from https://github.com/daattali/beautiful-jekyll 
-
+Website can be locally run with `bundle exec jekyll serve`

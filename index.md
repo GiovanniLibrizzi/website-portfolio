@@ -12,6 +12,8 @@ View my portfolio for more info!
 <hr class="line">
 -->
 
-This website's to host my game audio portfolio mostly. Maybe I'll add more later.
+Check out my <a href="./portfolio-programming">programming</a> or <a href="./portfolio-audio">audio</a> portfolios!
+
 <img src="../assets/img/finn.jpg" alt="My cat Finley" class="centerImg">
-<p class="tiny">My cat checking out some synthesizers :)</p>
+
+<p class="tiny">My cat checking out some synthesizers</p>

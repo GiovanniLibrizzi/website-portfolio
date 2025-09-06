@@ -20,10 +20,11 @@ author: Giovanni Librizzi
 ###############################################
 
 navbar-links:
-#  About Me: "aboutme"
+  #  About Me: "aboutme"
+  Programming Portfolio: "portfolio-programming"
   Audio Portfolio: "portfolio-audio"
   #Resume: "resume"
-  
+
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
@@ -44,7 +45,6 @@ round-avatar: true
 # then specify the following parameter
 #title-img: /path/to/image
 
-
 #####################################
 # --- Footer social media links --- #
 #####################################
@@ -61,28 +61,28 @@ social-network-links:
   #patreon: DeanAttali
   #youtube: "@daattali"
   #whatsapp: 15551212
-#  medium: yourname
-#  reddit: yourname or r/yoursubreddit
+  #  medium: yourname
+  #  reddit: yourname or r/yoursubreddit
   linkedin: giovanni-librizzi
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
+  #  xing: yourname
+  #  stackoverflow: "3943160/daattali"
+  #  snapchat: deanat78
+  #  instagram: deanat78
   spotify: mgnzgpwmcbl8np4j2dymsnph8
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  bluesky: yourname
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
-#  discord: "invite_code" or "users/userid" or "invite/invite_code"
-#  kaggle: yourname
-#  hackerrank: yourname
-#  gitlab: yourname
+  #  telephone: +14159998888
+  #  steam: deanat78
+  #  twitch: yourname
+  #  yelp: yourname
+  #  telegram: yourname
+  #  calendly: yourname
+  #  mastodon: instance.url/@username
+  #  bluesky: yourname
+  #  ORCID: your ORCID ID
+  #  google-scholar: your google scholar
+  #  discord: "invite_code" or "users/userid" or "invite/invite_code"
+  #  kaggle: yourname
+  #  hackerrank: yourname
+  #  gitlab: yourname
   itchio: giovannilibrizzi
 #  untappd: yourname
 
@@ -103,7 +103,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-# USING THIS AS AN EMAIL! EDITED FOOTER TO BE "MAILTO:" 
+# USING THIS AS AN EMAIL! EDITED FOOTER TO BE "MAILTO:"
 url-pretty: "giovannilibrizzi64@gmail.com"
 
 # Add the website title to the title of every page
@@ -273,16 +273,14 @@ kramdown:
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
+      comments: true # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
-  -
-    scope:
+  - scope:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
@@ -301,7 +299,6 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 
