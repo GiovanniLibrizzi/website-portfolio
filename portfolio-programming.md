@@ -24,7 +24,7 @@ A daily trivia web app where where you decipher a new band everyday based on the
 
 <h3 class="inline">Code Flowchart Tutoring Software</h3><p class="inline"><i> ~ (Java, SQL)</i></p>
 
-Collaborated with a team of 5 to develop software that allows students to build flowcharts based on code problems and compare to known solutions in a database
+I collaborated with a team of 5 to develop software that allows students to build flowcharts based on code problems and compare to known solutions in a database
 
 - I developed flowchart building functionality for the user and also wrote an algorithm to detect incorrect flowcharts based on the correct solution stored in the database
 - I wrote code that serializes our custom flowchart data structures into JSON to use in our database
@@ -35,7 +35,7 @@ Collaborated with a team of 5 to develop software that allows students to build 
 
 <h3 class="inline">Game Storefront Transactional Database</h3><p class="inline"><i> ~ (Python, MySQL, AWS)</i></p>
 
-Created a backend system for a mock-up game purchasing platform using Python and MySQL using a full dataset from Steam's game databases, including game expansions
+I created a backend system for a mock-up game purchasing platform using Python and MySQL using a full dataset from Steam's game databases, including game expansions
 
 - Parsed, processed, and cleaned 100,000+ lines of real data from Steam's game database
 - Allowed users to search, purchase, and refund from over 100,000 products efficiently
@@ -47,7 +47,7 @@ Created a backend system for a mock-up game purchasing platform using Python and
 
 <h3 class="inline">48 Hour Game Jam Games</h3><p class="inline"><i> ~ (C#, Monogame, Ableton)</i></p>
 
-Participated in several game jams for the Cal Poly Game Development Club as a club officer, where I created games in under 48 hours from scratch using C# and the Monogame .NET framework
+I participated in several game jams for the Cal Poly Game Development Club as a club officer, where I created games in under 48 hours from scratch using C# and the Monogame .NET framework
 
 <a href="https://giovannilibrizzi.itch.io/bricks-of-ruin"><img class="centerImg" src="../assets/img/gamejam-2.png"></a>
 
