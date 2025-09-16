@@ -12,7 +12,9 @@ View my portfolio for more info!
 <hr class="line">
 -->
 
-Check out my <a href="./portfolio-programming">programming</a> or <a href="./portfolio-audio">audio</a> portfolios!
+Try out my daily music trivia website <a href="https://guessthe.band/">Guess the Band</a>! A new band is chosen daily, and you're given clues to decypher who it is.
+
+Read more about it or check out the source code in my <a href="./portfolio-programming">programming portfolio</a>.
 
 <img src="../assets/img/finn.jpg" alt="My cat Finley" class="centerImg">
 
