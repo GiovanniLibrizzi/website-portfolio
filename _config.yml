@@ -23,7 +23,7 @@ navbar-links:
   #  About Me: "aboutme"
   Programming Portfolio: "portfolio-programming"
   Audio Portfolio: "portfolio-audio"
-  #Resume: "resume"
+  Resume: "resume"
 
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"

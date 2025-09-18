@@ -11,6 +11,7 @@ subtitle: I'm a programmer with a big interest in music.
 View my portfolio for more info!
 <hr class="line">
 -->
+I'm a Cal Poly SLO graduate with a BS in Computer Science
 
 Try out my daily music trivia website <a href="https://guessthe.band/">Guess the Band</a>! A new band is chosen daily, and you're given clues to decypher who it is.
 
