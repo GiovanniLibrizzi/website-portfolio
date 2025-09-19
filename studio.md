@@ -45,6 +45,7 @@ Equipment:
 
 Pedals:
 - Mu-Tron Micro-Tron IV
+- Vox V847 Wah
 - Boss RV-6 Reverb
 - Boss CE-2w Chorus
 - TC Electronic SCF Gold Chorus Flanger
